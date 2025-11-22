@@ -1,0 +1,24 @@
+<h1 class="logo">
+  Solar explorer
+  <span>in only CSS</span>
+</h1>
+<input class="planet9" id="pluto" type="radio" name="planet">
+<label class="menu pluto" for="pluto">
+  <div class="info">
+    <h2>
+      <div class="pip"></div>
+      Pluto
+    </h2>
+    <h3>39.5 AU</h3>
+  </div>
+</label>
+<input class="planet8" id="neptune" type="radio" name="planet">
+<label class="menu neptune" for="neptune">
+  <div class="info">
+    <h2>
+      <div class="pip"></div>
+      Neptune
+    </h2>
+    <h3>30.06 AU</h3>
+  </div>
+</label>
